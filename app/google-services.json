@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "755818498719",
+    "firebase_url": "https://tibc-467ff.firebaseio.com",
+    "project_id": "tibc-467ff",
+    "storage_bucket": "tibc-467ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755818498719:android:6fc7cf8852d9e4139f30aa",
+        "android_client_info": {
+          "package_name": "com.example.tibc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755818498719-f4j7fkhaio3b61vkfgg7un3g7j8qrvn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tibc",
+            "certificate_hash": "a92eac53be67a377b3057afa1863b1e293a5111b"
+          }
+        },
+        {
+          "client_id": "755818498719-bjvhqblrvhdtoapm21kvce21ls4bbrjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcM-X7swFcZ2qUthwe4bi70B2rpQMuv_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755818498719-bjvhqblrvhdtoapm21kvce21ls4bbrjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
